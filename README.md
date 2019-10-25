@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://meok.org](http://meok.org)
+地址：[http://meok.github.io](http://meok.github.io)
 
 ### 安装说明
 
